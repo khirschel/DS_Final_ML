@@ -1,1 +1,10 @@
+Requirments for this project and need to be imported
+
+
+pandas
+seaborn
+matplotlib.pyplot
+numpy
+sklearn (along with the various packages with it)
+
 
